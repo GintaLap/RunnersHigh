@@ -1,2 +1,2 @@
 # RunnersHigh
-Mobile app for runners with actual running events
+#2 Practical work
